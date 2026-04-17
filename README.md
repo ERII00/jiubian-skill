@@ -1,14 +1,14 @@
-# 九边 Skill for Claude Code
+# 九边 Skill
 
-> 基于九边《向上生长》《复杂世界的明白人》《西方博弈往事》三本书及公众号"九边""六镇"内容蒸馏而来的 Claude Code Skill 工具箱。
+> 基于《向上生长》《复杂世界的明白人》《西方博弈往事》三本书及公众号"九边""六镇"内容蒸馏而来的 Claude Code Skill 工具箱。
 
 ---
 
 ## 九边是谁
 
-九边，作家、自媒体人、世界500强企业高管。微信公众号「九边」「六镇」，全网粉丝近千万，2023年印象笔记收藏量排名第一的公号博主。
+九边，作家、自媒体人、世界500强企业高管。微信公众号「九边」「六镇」，全网粉丝近千万，2023年印象笔记收藏量排名第一。
 
-理工男出身，却把金融、历史、经济写得让普通人一看就懂。他的核心特质：用最简单的语言表达最深刻的道理，不装，不鸡汤，有立场。
+他把时政、经济、历史等硬核话题拆成大白话，用理科生逻辑讲透底层规律，不灌鸡汤只说实在话。文章内容兼具深度与可读性，适合大众理解社会趋势，提升认知思维。
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 核心框架（蒸馏自三本书）
+## 核心框架
 
 ```
 熵增定律（不进则退）
@@ -43,14 +43,14 @@
 ## 安装方法
 
 ```bash
-# 推荐：一行安装
-npx skills add [你的GitHub用户名]/jiubian-skill
+# 推荐：一键安装
+npx skills add ERII00/jiubian-skill
 ```
 
 或手动安装：
 
 ```bash
-git clone https://github.com/[你的GitHub用户名]/jiubian-skill.git /tmp/jiubian-skill && cp -r /tmp/jiubian-skill/skills/jiubian* ~/.claude/skills/ && rm -rf /tmp/jiubian-skill
+git clone https://github.com/ERII00/jiubian-skill.git /tmp/jiubian-skill && cp -r /tmp/jiubian-skill/skills/jiubian* ~/.claude/skills/ && rm -rf /tmp/jiubian-skill
 ```
 
 ---
@@ -85,16 +85,8 @@ git clone https://github.com/[你的GitHub用户名]/jiubian-skill.git /tmp/jiub
 - 分析/写作流程
 - 示例对话
 
-这些框架从九边的《向上生长》《复杂世界的明白人》《西方博弈往事》三本书及公众号内容中提炼，覆盖个人成长、财富认知、历史经济分析、写作风格等方向。
-
 ---
 
-## 参考项目
-
-灵感来自 [dontbesilent2025/dbskill](https://github.com/dontbesilent2025/dbskill)
-
----
-
-## 原作者
+## 原文链接
 
 [九边](https://mp.weixin.qq.com/) — 微信公众号「九边」「六镇」
