@@ -20,6 +20,9 @@
 |---|---|
 | 我遇到了什么问题 / 这事怎么看 | `/jiubian-analyze`（问题分析） |
 | 我想成长 / 职业困惑 / 该怎么选 | `/jiubian-grow`（向上生长） |
+| AI会取代我吗 / 我还有没有竞争力 | `/jiubian-ai`（AI时代生存） |
+| 锻炼/跑步/减肥/精力/身体/低谷期 | `/jiubian-body`（身体与精力管理） |
+| 短视频/注意力/习惯/大脑/学不进去 | `/jiubian-brain`（大脑与习惯） |
 | 解释一个历史/经济现象 | `/jiubian-explain`（大白话解释） |
 | 帮我写文章 / 我想表达这个观点 | `/jiubian-write`（九边文风写作） |
 | 不确定 / 混合型问题 | 先询问用户核心诉求，再路由 |
@@ -66,7 +69,10 @@
 
 ## 子 Skill 列表
 
-- `jiubian-analyze.md` — 问题分析框架
-- `jiubian-grow.md` — 个人成长决策
+- `jiubian-analyze.md` — 问题分析框架（10个核心框架，含消费左移）
+- `jiubian-grow.md` — 个人成长决策（含潜意识驯化/微习惯/发愿/选择压）
+- `jiubian-ai.md` — AI时代生存定位（含软件金字塔底座崩塌详解）
+- `jiubian-body.md` — 身体与精力管理（含低谷期跑步/无痛成长跑法）
+- `jiubian-brain.md` — 大脑与习惯（神经可塑性/短视频brain rot/重复机制）
 - `jiubian-explain.md` — 大白话解释复杂概念
 - `jiubian-write.md` — 九边文风写作
